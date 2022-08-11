@@ -1,4 +1,4 @@
-### Seja bem vindo ao perfil!
+### Seja bem vindo ao meu perfil!
 <div align="left">
   <a href="https://github.com/NatanTG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanTG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
