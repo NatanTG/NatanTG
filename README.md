@@ -18,7 +18,7 @@
   
 ##
  
-<div> 
+<div style="display: inline_block"> 
   <br> <br> <br>
   <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width = "30" target="blank"></a>
   <a href="https://www.linkedin.com/in/nat%C3%A3-tidioli-girotto-1bb782222/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width = "30"  target="blank"></a> 
