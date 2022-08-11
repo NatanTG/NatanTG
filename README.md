@@ -20,6 +20,6 @@
  
 <div> 
   <br> <br> <br>
-  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.olhardigital.com.br/wp-content/uploads/2020/10/20201006040756.jpg" height="27" width = "70" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nat%C3%A3-tidioli-girotto-1bb782222/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="27" width = "68"  target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width = "30" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nat%C3%A3-tidioli-girotto-1bb782222/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width = "30"  target="_blank"></a> 
 </div>
