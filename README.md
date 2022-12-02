@@ -13,12 +13,11 @@
   <img align="center" alt="nataan-flutter" height="30" width="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png">
   <!--<img align="center" alt="nataan-nodejs" height="30" width="30" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
    <img align="center" alt="nataan-js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">--> 
-  <img height='160em' src='https://github-readme-streak-stats.herokuapp.com/?user=NatanTG&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
-  <br>
-  <br>
-  <br>
-</div>
   
+</div>
+  <div>
+    <img height='160em' src='https://github-readme-streak-stats.herokuapp.com/?user=NatanTG&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  </div>
 ##
  
 <div> 
