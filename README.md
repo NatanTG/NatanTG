@@ -1,23 +1,21 @@
-### Seja bem vindo ao meu perfil!
-<div align="left">
-  <a href="https://github.com/NatanTG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanTG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanTG&layout=compact&langs_count=7&theme=midnight-purple"/> 
-  <!--<img height='160em' src='https://github-readme-streak-stats.herokuapp.com/?user=NatanTG&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD'/>-->
-  
-</div>
-<br> 
-<div style="display: inline_block"><br>
-  <img align="center" alt="nataan-html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="nataan-css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nataan-dart" height="30" width="30" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4">
-  <img align="center" alt="nataan-flutter" height="30" width="30" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png">
-  <!--<img align="center" alt="nataan-nodejs" height="30" width="30" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
-  <img align="center" alt="nataan-js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">-->
-</div>
-  
-<div> 
-  <br> <br> <br>
-  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width = "30" target="blank"></a>
-  <a href="https://www.linkedin.com/in/nat%C3%A3-tidioli-girotto-1bb782222/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width = "30"  target="blank"></a> 
-</div>
+<h1 align="center">Hi 👋, I'm Natã</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natantg&label=Profile%20views&color=0e75b6&style=flat" alt="natantg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natantg" alt="natantg" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natantg&show_icons=true&locale=en&layout=compact" alt="natantg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natantg&show_icons=true&locale=en" alt="natantg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natantg&" alt="natantg" /></p>
